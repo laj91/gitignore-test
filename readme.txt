@@ -1,1 +1,1 @@
-Test of gitignore, database encryption and .env files.
+Test of gitignore, encryption, hashing and .env files.
